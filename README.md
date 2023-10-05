@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIGYE
 - 👀 I’m interested in swimming
-- 🌱 I’m currently learning web development
+- 🌱 I'm a full-stack web/app developer 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me lindamwesigye2@gmail.com
 
